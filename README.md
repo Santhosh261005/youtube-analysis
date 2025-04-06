@@ -3,7 +3,7 @@ DAV Assignment_181
 # YouTube Influencers Analysis with Python
 
 ## Overview
-A basic data analysis project using Python's powerful libraries — **NumPy**, **Pandas**, and **Matplotlib** — to explore and visualize insights from a dataset of social media influencers on YouTube.
+A basic data analysis project using Python's powerful libraries — **NumPy**, **Pandas**, and **Matplotlib** — to explore and visualize insights from a dataset of social media influencers on YouTube
 
 ---
 
